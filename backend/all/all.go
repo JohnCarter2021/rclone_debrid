@@ -27,4 +27,5 @@ import (
 	_ "github.com/ncw/rclone/backend/swift"
 	_ "github.com/ncw/rclone/backend/webdav"
 	_ "github.com/ncw/rclone/backend/yandex"
+	_ "github.com/rclone/rclone/backend/torbox"
 )
